@@ -34,6 +34,7 @@ Table of Contents
 
 ## Java
 [Singleton có thực sự dễ](https://gurunh.com/2018/05/singleton-co-thuc-su-de/)
+
 [Tạo một singleton hoàn hảo](https://medium.com/@kevalpatel2106/how-to-make-the-perfect-singleton-de6b951dfdb0)
 
 
