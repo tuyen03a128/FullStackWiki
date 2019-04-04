@@ -21,7 +21,9 @@ Table of Contents
 
 [Databases Normalization vs Denormalization](http://www.ovaistariq.net/199/databases-normalization-or-denormalization-which-is-the-better-technique/#.XKXJ5FUzZhF)
 
-(https://medium.com/@JasonWyatt/squeezing-performance-from-sqlite-indexes-indexes-c4e175f3c346)
+[Performance of Database indexes](https://medium.com/@JasonWyatt/squeezing-performance-from-sqlite-indexes-indexes-c4e175f3c346)
+
+[Index giúp truy xuất database nhanh hơn như thế nào](https://maidata.tech/index-giup-truy-xuat-database-nhanh-hon-nhu-the-nao/)
 
 **[Back to top](#table-of-contents)**
 
